@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inbox_Manager2
+namespace Heroes_of_Code_and_Logic_VII
 {
     class Program
     {
