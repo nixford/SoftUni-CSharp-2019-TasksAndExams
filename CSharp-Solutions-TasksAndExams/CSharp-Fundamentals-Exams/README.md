@@ -1,2 +1,0 @@
-
-Solutions of exams
