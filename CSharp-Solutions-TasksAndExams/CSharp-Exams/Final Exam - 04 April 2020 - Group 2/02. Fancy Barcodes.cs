@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
-namespace Registration2
+namespace Fancy Barcodes
 {
     class Program
     {
