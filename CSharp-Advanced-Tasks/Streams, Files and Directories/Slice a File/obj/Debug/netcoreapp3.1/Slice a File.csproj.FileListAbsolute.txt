@@ -1,0 +1,13 @@
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.exe
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.deps.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.runtimeconfig.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.runtimeconfig.dev.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.dll
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.pdb
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.csprojAssemblyReference.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.dll
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.pdb
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.genruntimeconfig.cache

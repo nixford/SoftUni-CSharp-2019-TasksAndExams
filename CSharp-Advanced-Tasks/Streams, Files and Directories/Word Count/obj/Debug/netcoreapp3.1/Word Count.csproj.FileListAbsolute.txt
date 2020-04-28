@@ -1,0 +1,13 @@
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\bin\Debug\netcoreapp3.1\Word Count.exe
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\bin\Debug\netcoreapp3.1\Word Count.deps.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.dev.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\bin\Debug\netcoreapp3.1\Word Count.dll
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\bin\Debug\netcoreapp3.1\Word Count.pdb
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\obj\Debug\netcoreapp3.1\Word Count.csprojAssemblyReference.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\obj\Debug\netcoreapp3.1\Word Count.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\obj\Debug\netcoreapp3.1\Word Count.dll
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\obj\Debug\netcoreapp3.1\Word Count.pdb
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Word Count\obj\Debug\netcoreapp3.1\Word Count.genruntimeconfig.cache

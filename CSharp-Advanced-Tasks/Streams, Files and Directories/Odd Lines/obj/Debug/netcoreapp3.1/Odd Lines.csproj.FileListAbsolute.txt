@@ -1,0 +1,13 @@
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.exe
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.deps.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.runtimeconfig.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.runtimeconfig.dev.json
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.dll
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.pdb
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.csprojAssemblyReference.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.dll
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.pdb
+C:\Users\Dimitar Uzunov\source\repos\Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.genruntimeconfig.cache
