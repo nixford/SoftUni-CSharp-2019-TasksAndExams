@@ -1,0 +1,3 @@
+C:\Users\Dimitar Uzunov\source\repos\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\source\repos\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\source\repos\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.csproj.CoreCompileInputs.cache
