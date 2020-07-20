@@ -1,0 +1,13 @@
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.exe
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.deps.json
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.runtimeconfig.json
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.runtimeconfig.dev.json
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.dll
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.pdb
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.csprojAssemblyReference.cache
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.AssemblyInfoInputs.cache
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.AssemblyInfo.cs
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.csproj.CoreCompileInputs.cache
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.dll
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.pdb
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.genruntimeconfig.cache

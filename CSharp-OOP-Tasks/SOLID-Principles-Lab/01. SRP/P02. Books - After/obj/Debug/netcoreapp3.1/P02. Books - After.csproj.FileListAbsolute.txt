@@ -1,0 +1,12 @@
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\bin\Debug\netcoreapp3.1\P02. Books - After.exe
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\bin\Debug\netcoreapp3.1\P02. Books - After.deps.json
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\bin\Debug\netcoreapp3.1\P02. Books - After.runtimeconfig.json
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\bin\Debug\netcoreapp3.1\P02. Books - After.runtimeconfig.dev.json
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\bin\Debug\netcoreapp3.1\P02. Books - After.dll
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\bin\Debug\netcoreapp3.1\P02. Books - After.pdb
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\obj\Debug\netcoreapp3.1\P02. Books - After.AssemblyInfoInputs.cache
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\obj\Debug\netcoreapp3.1\P02. Books - After.AssemblyInfo.cs
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\obj\Debug\netcoreapp3.1\P02. Books - After.csproj.CoreCompileInputs.cache
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\obj\Debug\netcoreapp3.1\P02. Books - After.dll
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\obj\Debug\netcoreapp3.1\P02. Books - After.pdb
+D:\SoftUni\5.C# Advanced\C# OOP\SOLID Principles\Demo-Resources\P02. Books - After\obj\Debug\netcoreapp3.1\P02. Books - After.genruntimeconfig.cache
