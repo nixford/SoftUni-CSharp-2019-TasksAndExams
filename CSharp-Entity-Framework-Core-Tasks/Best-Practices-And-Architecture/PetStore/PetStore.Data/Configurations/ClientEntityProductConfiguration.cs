@@ -13,7 +13,8 @@ namespace PetStore.Data.Configurations
         public void Configure(EntityTypeBuilder<ClientProduct> builder)
         {
             builder
-                .HasKey(cp => new { cp.ClientId, cp.ProductId });
+                .HasKey(cp => 
+                new { cp.ClientId, cp.ProductId });
         }
     }
 }

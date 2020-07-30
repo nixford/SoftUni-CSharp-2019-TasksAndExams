@@ -7,6 +7,7 @@ namespace PetStore.ServiceModels.Products.OutputModels
 {
     public class ListAllProductsServiceModel
     {
+        public string ProductId { get; set; }
         public string Name { get; set; }
 
         public string ProductType { get; set; }

@@ -1,4 +1,7 @@
-﻿using System;
+﻿using PetStore.Models;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace PetStore.ConsoleApplication
 {
@@ -7,6 +10,6 @@ namespace PetStore.ConsoleApplication
         static void Main(string[] args)
         {
             
-        }
+        }        
     }
 }

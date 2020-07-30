@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using AutoMapper.QueryableExtensions;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using PetStore.Common;
 using PetStore.Data;
 using PetStore.Models;
@@ -43,7 +44,19 @@ namespace PetStore.Services
             
         }
 
-        public ICollection<ListAllProductsByProductTypeServiceModel> ListAllProductType(string type)
+        public ICollection<ListAllProductsServiceModel> GetAll()
+        {
+            var products =
+                this.dbContext
+                .Products
+                .ProjectTo<ListAllProductsServiceModel>
+                (this.mapper.ConfigurationProvider)
+                .ToList();
+
+            return products;
+        }
+
+        public ICollection<ListAllProductsByProductTypeServiceModel> ListAllByProductType(string type)
         {
             ProductType productType;
 
@@ -55,7 +68,7 @@ namespace PetStore.Services
                 throw new ArgumentException(ExceptionMesseges.InvalidProductType);
             }
 
-            List<ListAllProductsByProductTypeServiceModel> productsServiceModels =
+           var productsServiceModels =
                 this.dbContext.Products
                 .Where(p => p.ProductType == productType)
                 .ProjectTo<ListAllProductsByProductTypeServiceModel>
@@ -65,13 +78,29 @@ namespace PetStore.Services
             return productsServiceModels;
         }
 
-        public ICollection<ListAllProductsServiceModel> GetAll()
+        public ICollection<ListAllProductsByNameServiceModel> SearchByName
+            (string searchStr, bool caseSensitive)
         {
-            var products = this.dbContext
-                .Products
-                .ProjectTo<ListAllProductsServiceModel>
-                (this.mapper.ConfigurationProvider)
-                .ToList();
+            ICollection<ListAllProductsByNameServiceModel> products;
+
+            if (caseSensitive)
+            {
+                products = this.dbContext
+                    .Products
+                    .Where(p => p.Name.Contains(searchStr))
+                    .ProjectTo<ListAllProductsByNameServiceModel>
+                    (this.mapper.ConfigurationProvider)
+                    .ToList();
+            }
+            else
+            {
+                products = this.dbContext
+                    .Products
+                    .Where(p => p.Name.ToLower().Contains(searchStr.ToLower()))
+                    .ProjectTo<ListAllProductsByNameServiceModel>
+                    (this.mapper.ConfigurationProvider)
+                    .ToList();
+            }
 
             return products;
         }
@@ -113,33 +142,7 @@ namespace PetStore.Services
 
             return wasDeleted;
         }
-
-        public ICollection<ListAllProductsByNameServiceModel> SearchByName
-            (string searchString, bool caseSensitive)
-        {
-            ICollection<ListAllProductsByNameServiceModel> products;
-
-            if (caseSensitive)
-            {
-                products = this.dbContext
-                    .Products
-                    .Where(p => p.Name.Contains(searchString))
-                    .ProjectTo<ListAllProductsByNameServiceModel>
-                    (this.mapper.ConfigurationProvider)
-                    .ToList();
-            }
-            else
-            {
-                products = this.dbContext
-                    .Products
-                    .Where(p => p.Name.ToLower().Contains(searchString.ToLower()))
-                    .ProjectTo<ListAllProductsByNameServiceModel>
-                    (this.mapper.ConfigurationProvider)
-                    .ToList();
-            }
-
-            return products;
-        }
+       
 
         public void EditProduct(string id, EditProductInputServiceModel model)
         {
@@ -171,6 +174,23 @@ namespace PetStore.Services
 
                 throw new ArgumentException(ExceptionMesseges.InvalidProductType);
             }
+        }
+
+        public ProductDetailServiceModel GetById(string id)
+        {
+            Product product = this.dbContext
+                 .Products
+                 .FirstOrDefault(p => p.Id == id);
+
+            if (product == null)
+            {
+                throw new ArgumentException(ExceptionMesseges.ProductNotFound);
+            }
+
+            ProductDetailServiceModel serviceModel =
+                this.mapper.Map<ProductDetailServiceModel>(product);
+
+            return serviceModel;
         }
     }
 }

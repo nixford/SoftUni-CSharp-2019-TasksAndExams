@@ -10,7 +10,9 @@ namespace PetStore.Services.Interfaces
     {
         void AddProduct(AddProductInputServiceModel model);
 
-        ICollection<ListAllProductsByProductTypeServiceModel>ListAllProductType(string type);
+        ProductDetailServiceModel GetById(string id);
+
+        ICollection<ListAllProductsByProductTypeServiceModel>ListAllByProductType(string type);
 
         ICollection<ListAllProductsServiceModel> GetAll();
 

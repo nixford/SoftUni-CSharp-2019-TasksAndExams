@@ -13,7 +13,7 @@ namespace PetStore.ServiceModels.Products.InputModels
         [MaxLength(50)]
         public string Name { get; set; }
 
-        public string productType;
+        public string ProductType;
 
         [Range(0, Double.MaxValue)]
         public decimal Price { get; set; }
