@@ -1,0 +1,941 @@
+[
+  {
+    "Username": "mmcellen1",
+    "Tasks": [
+      {
+        "Name": "American Star-thistle",
+        "OpenDate": "09/21/2018",
+        "DueDate": "11/29/2018",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Wirestem Buckwheat",
+        "OpenDate": "04/13/2018",
+        "DueDate": "11/22/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Spreading Sandwort",
+        "OpenDate": "02/19/2018",
+        "DueDate": "11/20/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Cypress Panicgrass",
+        "OpenDate": "10/19/2018",
+        "DueDate": "11/17/2018",
+        "LabelType": 3,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Calophyllum",
+        "OpenDate": "10/09/2018",
+        "DueDate": "11/15/2018",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Pointed Gourd",
+        "OpenDate": "10/08/2018",
+        "DueDate": "10/24/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Columbian",
+        "OpenDate": "10/24/2018",
+        "DueDate": "10/20/2019",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Cornflag",
+        "OpenDate": "09/27/2018",
+        "DueDate": "09/25/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Rock Whitefeather",
+        "OpenDate": "01/23/2018",
+        "DueDate": "08/24/2019",
+        "LabelType": 4,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Charleston Mousetail",
+        "OpenDate": "08/10/2018",
+        "DueDate": "07/07/2019",
+        "LabelType": 4,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "California Dwarf-flax",
+        "OpenDate": "10/01/2018",
+        "DueDate": "06/01/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Digitgrass",
+        "OpenDate": "06/02/2018",
+        "DueDate": "05/18/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Hairy Mountain Mahogany",
+        "OpenDate": "09/21/2018",
+        "DueDate": "04/29/2019",
+        "LabelType": 0,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "White",
+        "OpenDate": "10/04/2018",
+        "DueDate": "04/21/2019",
+        "LabelType": 4,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Bryum",
+        "OpenDate": "11/02/2018",
+        "DueDate": "01/19/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      }
+    ]
+  },
+  {
+    "Username": "nbremenj",
+    "Tasks": [
+      {
+        "Name": "Guadalupe",
+        "OpenDate": "09/29/2018",
+        "DueDate": "12/23/2018",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Munz's Buckwheat",
+        "OpenDate": "07/18/2018",
+        "DueDate": "12/18/2018",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Yellow Wildrye",
+        "OpenDate": "07/26/2018",
+        "DueDate": "12/12/2018",
+        "LabelType": 0,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Calophyllum",
+        "OpenDate": "10/09/2018",
+        "DueDate": "11/15/2018",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Cyrtandra",
+        "OpenDate": "08/04/2018",
+        "DueDate": "11/14/2018",
+        "LabelType": 0,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Fir Clubmoss",
+        "OpenDate": "09/15/2018",
+        "DueDate": "07/08/2019",
+        "LabelType": 3,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Southern Hawkweed",
+        "OpenDate": "10/13/2018",
+        "DueDate": "06/18/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Digitgrass",
+        "OpenDate": "06/02/2018",
+        "DueDate": "05/18/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Hairy Mountain Mahogany",
+        "OpenDate": "09/21/2018",
+        "DueDate": "04/29/2019",
+        "LabelType": 0,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Visher's",
+        "OpenDate": "04/17/2018",
+        "DueDate": "04/27/2019",
+        "LabelType": 0,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Saber Bogmat",
+        "OpenDate": "08/16/2018",
+        "DueDate": "03/12/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Spherical Blazing Star",
+        "OpenDate": "10/15/2018",
+        "DueDate": "03/08/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Bryum",
+        "OpenDate": "11/02/2018",
+        "DueDate": "01/19/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Valamuerto",
+        "OpenDate": "08/23/2018",
+        "DueDate": "01/15/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      }
+    ]
+  },
+  {
+    "Username": "olathleiffurec",
+    "Tasks": [
+      {
+        "Name": "Clustered Sawwort",
+        "OpenDate": "07/21/2018",
+        "DueDate": "12/09/2018",
+        "LabelType": 0,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Calophyllum",
+        "OpenDate": "10/09/2018",
+        "DueDate": "11/15/2018",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Fir Clubmoss",
+        "OpenDate": "09/15/2018",
+        "DueDate": "07/08/2019",
+        "LabelType": 3,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Pacific",
+        "OpenDate": "05/14/2018",
+        "DueDate": "07/05/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Bicolored Spleenwort",
+        "OpenDate": "05/24/2018",
+        "DueDate": "07/02/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Comfortroot",
+        "OpenDate": "07/14/2018",
+        "DueDate": "06/10/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Pearson's",
+        "OpenDate": "03/07/2018",
+        "DueDate": "05/21/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Digitgrass",
+        "OpenDate": "06/02/2018",
+        "DueDate": "05/18/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Bashful Four O'clock",
+        "OpenDate": "05/08/2018",
+        "DueDate": "04/21/2019",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Longbract Pohlia Moss",
+        "OpenDate": "09/13/2018",
+        "DueDate": "03/29/2019",
+        "LabelType": 3,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Fleabane",
+        "OpenDate": "10/02/2018",
+        "DueDate": "03/21/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Carrotwood",
+        "OpenDate": "07/23/2018",
+        "DueDate": "03/11/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Lac Tree",
+        "OpenDate": "06/22/2018",
+        "DueDate": "02/24/2019",
+        "LabelType": 2,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Greenman's Bluet",
+        "OpenDate": "07/27/2018",
+        "DueDate": "02/04/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      }
+    ]
+  },
+  {
+    "Username": "ymarcumt",
+    "Tasks": [
+      {
+        "Name": "Guadalupe",
+        "OpenDate": "09/29/2018",
+        "DueDate": "12/23/2018",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Spreading Sandwort",
+        "OpenDate": "02/19/2018",
+        "DueDate": "11/20/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Columbian",
+        "OpenDate": "10/24/2018",
+        "DueDate": "10/20/2019",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Bicolored Spleenwort",
+        "OpenDate": "05/24/2018",
+        "DueDate": "07/02/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Southern Hawkweed",
+        "OpenDate": "10/13/2018",
+        "DueDate": "06/18/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "California Dwarf-flax",
+        "OpenDate": "10/01/2018",
+        "DueDate": "06/01/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Digitgrass",
+        "OpenDate": "06/02/2018",
+        "DueDate": "05/18/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Leafy Reedgrass",
+        "OpenDate": "06/22/2018",
+        "DueDate": "04/28/2019",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Bashful Four O'clock",
+        "OpenDate": "05/08/2018",
+        "DueDate": "04/21/2019",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Northland",
+        "OpenDate": "07/31/2018",
+        "DueDate": "04/06/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Strawberry Clover",
+        "OpenDate": "10/08/2018",
+        "DueDate": "04/04/2019",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Lac Tree",
+        "OpenDate": "06/22/2018",
+        "DueDate": "02/24/2019",
+        "LabelType": 2,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Slender Cudweed",
+        "OpenDate": "07/12/2018",
+        "DueDate": "01/24/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Valamuerto",
+        "OpenDate": "08/23/2018",
+        "DueDate": "01/15/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      }
+    ]
+  },
+  {
+    "Username": "jbehlingp",
+    "Tasks": [
+      {
+        "Name": "Guadalupe",
+        "OpenDate": "09/29/2018",
+        "DueDate": "12/23/2018",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Broadleaf",
+        "OpenDate": "03/21/2018",
+        "DueDate": "12/18/2018",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Burchell's Clover",
+        "OpenDate": "06/17/2018",
+        "DueDate": "12/03/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Nipa Palm",
+        "OpenDate": "10/14/2018",
+        "DueDate": "09/19/2019",
+        "LabelType": 0,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Rock Whitefeather",
+        "OpenDate": "01/23/2018",
+        "DueDate": "08/24/2019",
+        "LabelType": 4,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Fir Clubmoss",
+        "OpenDate": "09/15/2018",
+        "DueDate": "07/08/2019",
+        "LabelType": 3,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Charleston Mousetail",
+        "OpenDate": "08/10/2018",
+        "DueDate": "07/07/2019",
+        "LabelType": 4,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Pacific",
+        "OpenDate": "05/14/2018",
+        "DueDate": "07/05/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Bicolored Spleenwort",
+        "OpenDate": "05/24/2018",
+        "DueDate": "07/02/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "White",
+        "OpenDate": "10/04/2018",
+        "DueDate": "04/21/2019",
+        "LabelType": 4,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Strawberry Clover",
+        "OpenDate": "10/08/2018",
+        "DueDate": "04/04/2019",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Florida Toadwood",
+        "OpenDate": "05/15/2018",
+        "DueDate": "02/02/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Tricharia Lichen",
+        "OpenDate": "08/21/2018",
+        "DueDate": "01/24/2019",
+        "LabelType": 2,
+        "ExecutionType": 0
+      }
+    ]
+  },
+  {
+    "Username": "pclaffeyq",
+    "Tasks": [
+      {
+        "Name": "Clustered Sawwort",
+        "OpenDate": "07/21/2018",
+        "DueDate": "12/09/2018",
+        "LabelType": 0,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Burchell's Clover",
+        "OpenDate": "06/17/2018",
+        "DueDate": "12/03/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Cypress Panicgrass",
+        "OpenDate": "10/19/2018",
+        "DueDate": "11/17/2018",
+        "LabelType": 3,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Fir Clubmoss",
+        "OpenDate": "09/15/2018",
+        "DueDate": "07/08/2019",
+        "LabelType": 3,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Annual",
+        "OpenDate": "05/10/2018",
+        "DueDate": "06/07/2019",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Pearson's",
+        "OpenDate": "03/07/2018",
+        "DueDate": "05/21/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Fineleaf",
+        "OpenDate": "08/31/2018",
+        "DueDate": "04/18/2019",
+        "LabelType": 4,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Roundleaf Leather-root",
+        "OpenDate": "08/28/2018",
+        "DueDate": "04/11/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Guadeloupe",
+        "OpenDate": "02/14/2018",
+        "DueDate": "02/09/2019",
+        "LabelType": 2,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Greenman's Bluet",
+        "OpenDate": "07/27/2018",
+        "DueDate": "02/04/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Florida Toadwood",
+        "OpenDate": "05/15/2018",
+        "DueDate": "02/02/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Slender Cudweed",
+        "OpenDate": "07/12/2018",
+        "DueDate": "01/24/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Bryum",
+        "OpenDate": "11/02/2018",
+        "DueDate": "01/19/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      }
+    ]
+  },
+  {
+    "Username": "ostollsteimer5",
+    "Tasks": [
+      {
+        "Name": "Munz's Buckwheat",
+        "OpenDate": "07/18/2018",
+        "DueDate": "12/18/2018",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Burchell's Clover",
+        "OpenDate": "06/17/2018",
+        "DueDate": "12/03/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Calophyllum",
+        "OpenDate": "10/09/2018",
+        "DueDate": "11/15/2018",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Lane Mountain Milkvetch",
+        "OpenDate": "08/04/2018",
+        "DueDate": "07/27/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Southern Hawkweed",
+        "OpenDate": "10/13/2018",
+        "DueDate": "06/18/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Comfortroot",
+        "OpenDate": "07/14/2018",
+        "DueDate": "06/10/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Hairy Mountain Mahogany",
+        "OpenDate": "09/21/2018",
+        "DueDate": "04/29/2019",
+        "LabelType": 0,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Bashful Four O'clock",
+        "OpenDate": "05/08/2018",
+        "DueDate": "04/21/2019",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Northland",
+        "OpenDate": "07/31/2018",
+        "DueDate": "04/06/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Carrotwood",
+        "OpenDate": "07/23/2018",
+        "DueDate": "03/11/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Bryum",
+        "OpenDate": "11/02/2018",
+        "DueDate": "01/19/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Valamuerto",
+        "OpenDate": "08/23/2018",
+        "DueDate": "01/15/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      }
+    ]
+  },
+  {
+    "Username": "kmurrow9",
+    "Tasks": [
+      {
+        "Name": "Munz's Buckwheat",
+        "OpenDate": "07/18/2018",
+        "DueDate": "12/18/2018",
+        "LabelType": 1,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Cornflag",
+        "OpenDate": "09/27/2018",
+        "DueDate": "09/25/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Lane Mountain Milkvetch",
+        "OpenDate": "08/04/2018",
+        "DueDate": "07/27/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Pacific",
+        "OpenDate": "05/14/2018",
+        "DueDate": "07/05/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Comfortroot",
+        "OpenDate": "07/14/2018",
+        "DueDate": "06/10/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Pearson's",
+        "OpenDate": "03/07/2018",
+        "DueDate": "05/21/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Roundleaf Leather-root",
+        "OpenDate": "08/28/2018",
+        "DueDate": "04/11/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "White Jungleflame",
+        "OpenDate": "10/10/2018",
+        "DueDate": "02/11/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Slender Cudweed",
+        "OpenDate": "07/12/2018",
+        "DueDate": "01/24/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Bryum",
+        "OpenDate": "11/02/2018",
+        "DueDate": "01/19/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Olive",
+        "OpenDate": "10/19/2018",
+        "DueDate": "01/18/2019",
+        "LabelType": 4,
+        "ExecutionType": 0
+      }
+    ]
+  },
+  {
+    "Username": "tridolfif",
+    "Tasks": [
+      {
+        "Name": "Cornflag",
+        "OpenDate": "09/27/2018",
+        "DueDate": "09/25/2019",
+        "LabelType": 1,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Nipa Palm",
+        "OpenDate": "10/14/2018",
+        "DueDate": "09/19/2019",
+        "LabelType": 0,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Lane Mountain Milkvetch",
+        "OpenDate": "08/04/2018",
+        "DueDate": "07/27/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Southern Hawkweed",
+        "OpenDate": "10/13/2018",
+        "DueDate": "06/18/2019",
+        "LabelType": 1,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Digitgrass",
+        "OpenDate": "06/02/2018",
+        "DueDate": "05/18/2019",
+        "LabelType": 3,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Bashful Four O'clock",
+        "OpenDate": "05/08/2018",
+        "DueDate": "04/21/2019",
+        "LabelType": 2,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "Roundleaf Leather-root",
+        "OpenDate": "08/28/2018",
+        "DueDate": "04/11/2019",
+        "LabelType": 0,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Lac Tree",
+        "OpenDate": "06/22/2018",
+        "DueDate": "02/24/2019",
+        "LabelType": 2,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Crandall",
+        "OpenDate": "03/12/2018",
+        "DueDate": "02/21/2019",
+        "LabelType": 0,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Debeque",
+        "OpenDate": "10/17/2018",
+        "DueDate": "01/25/2019",
+        "LabelType": 2,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Olive",
+        "OpenDate": "10/19/2018",
+        "DueDate": "01/18/2019",
+        "LabelType": 4,
+        "ExecutionType": 0
+      }
+    ]
+  },
+  {
+    "Username": "mbarendtsena",
+    "Tasks": [
+      {
+        "Name": "Yellow Wildrye",
+        "OpenDate": "07/26/2018",
+        "DueDate": "12/12/2018",
+        "LabelType": 0,
+        "ExecutionType": 1
+      },
+      {
+        "Name": "Wirestem Buckwheat",
+        "OpenDate": "04/13/2018",
+        "DueDate": "11/22/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Spreading Sandwort",
+        "OpenDate": "02/19/2018",
+        "DueDate": "11/20/2018",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Columbian",
+        "OpenDate": "10/24/2018",
+        "DueDate": "10/20/2019",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Nipa Palm",
+        "OpenDate": "10/14/2018",
+        "DueDate": "09/19/2019",
+        "LabelType": 0,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Fir Clubmoss",
+        "OpenDate": "09/15/2018",
+        "DueDate": "07/08/2019",
+        "LabelType": 3,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Paradox",
+        "OpenDate": "05/11/2018",
+        "DueDate": "05/15/2019",
+        "LabelType": 4,
+        "ExecutionType": 2
+      },
+      {
+        "Name": "Fleabane",
+        "OpenDate": "10/02/2018",
+        "DueDate": "03/21/2019",
+        "LabelType": 0,
+        "ExecutionType": 0
+      },
+      {
+        "Name": "White Jungleflame",
+        "OpenDate": "10/10/2018",
+        "DueDate": "02/11/2019",
+        "LabelType": 4,
+        "ExecutionType": 3
+      },
+      {
+        "Name": "Guadeloupe",
+        "OpenDate": "02/14/2018",
+        "DueDate": "02/09/2019",
+        "LabelType": 2,
+        "ExecutionType": 1
+      }
+    ]
+  }
+]
