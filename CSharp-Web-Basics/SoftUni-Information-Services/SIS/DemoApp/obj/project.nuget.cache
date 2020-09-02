@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "EzsQYGMFu2FrvU0sVmi5ph3QAkJTstd5El3+MjhQ31TwtSyRF+3ow5YD00dAblx0au9DPMBIgd5RFjgaCxD6QQ==",
+  "dgSpecHash": "bKPf7OR8GuK0EHHvGlzmO8mb29mY9NqU+vf8TuKpRJDm3x+1qgztJOcNJJ09O4qftkVDAmaztyl48mrPrZ48mA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\SoftUni-Information-Services\\SIS\\DemoApp\\DemoApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

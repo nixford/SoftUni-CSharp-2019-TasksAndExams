@@ -1,4 +1,7 @@
-﻿using System;
+﻿using SIS.HTTP.Enums;
+using SIS.HTTP.HttpElements;
+using SIS.HTTP.Utilities;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
@@ -51,24 +54,34 @@ namespace SIS.HTTP
 
         private async Task ProcessClientAsync(TcpClient tcpClient)
         {
-            const string NewLine = "\r\n";
-
             using (NetworkStream networkStream = tcpClient.GetStream())
             {
                 byte[] requestBytes = new byte[1000000]; // standart 4096
                 int bytesRead = await networkStream.ReadAsync(requestBytes, 0, requestBytes.Length);
-                string request = Encoding.UTF8.GetString(requestBytes, 0, bytesRead);
-                byte[] fileContent = Encoding.UTF8.GetBytes("<h1>Hellow, World!</h1>");                 
-                string headers = " HTTP/1.0 200 OK" + NewLine +                                   
-                                   "Server: SoftUniServer/1.0" + NewLine +
-                                   "Content-Type: text/html" + NewLine +
-                                   "Content-Lenght: " + fileContent.Length + NewLine + 
-                                   NewLine;
-                byte[] headersBytes = Encoding.UTF8.GetBytes(headers);
-                await networkStream.WriteAsync(headersBytes, 0, headersBytes.Length);
-                await networkStream.WriteAsync(fileContent, 0, fileContent.Length);
+                string requestAsString = Encoding.UTF8.GetString(requestBytes, 0, bytesRead);
 
-                Console.WriteLine(request);
+                var request = new HttpRequest(requestAsString);
+                string content = "<h1>random page<h1>";
+                if (request.Path == "/")
+                {
+                    content = "<h1>home page</h1>";
+                }
+                else if (request.Path == "/users/login")
+                {
+                    content = "<h1>login page</h1>";
+                }
+
+                byte[] stringContent = Encoding.UTF8.GetBytes(content);
+
+                var response = new HttpResponse(HttpResponseCode.Ok, stringContent);
+                response.Headers.Add(new Header("Server", "Server: SoftUniServer/1.0"));
+                response.Headers.Add(new Header("Content-Type:", "text/html"));                
+                byte[] resposeBytes = Encoding.UTF8.GetBytes(response.ToString());
+                await networkStream.WriteAsync(resposeBytes, 0, resposeBytes.Length);
+                await networkStream.WriteAsync(response.Body, 0, response.Body.Length);
+
+                Console.WriteLine(requestAsString);
+                File.WriteAllText("../../../requestOutput.txt", requestAsString);
                 Console.WriteLine(new string('=', 60));
             }
         }
