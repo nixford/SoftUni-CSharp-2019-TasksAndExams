@@ -9,16 +9,21 @@ namespace SIS.HTTP.HttpElements
     public class HttpResponse
     {
         public HttpResponse(HttpResponseCode statusCode, byte[] body)
-        {
-            this.Version = HttpVersionType.Http11;
-            this.StatusCode = statusCode;
-            this.Headers = new List<Header>();
+            : this()
+        {            
+            this.StatusCode = statusCode;            
             this.Body = body;
-
-            if (body?.Length > 0) // if the body is not nul
+            if (body?.Length > 0) // if the body is not null
             {
                 this.Headers.Add(new Header("Content-Length", body.Length.ToString()));
             }
+        }
+
+        internal HttpResponse()
+        {
+            this.Version = HttpVersionType.Http11;
+            this.Headers = new List<Header>();            
+            this.Cookies = new List<ResponceCooke>();
         }
 
         public HttpVersionType Version { get; set; }
@@ -26,6 +31,8 @@ namespace SIS.HTTP.HttpElements
         public HttpResponseCode StatusCode { get; set; }
 
         public IList<Header> Headers { get; set; }
+
+        public IList<ResponceCooke> Cookies { get; set; }
 
         public byte[] Body { get; set; }
 
@@ -45,6 +52,12 @@ namespace SIS.HTTP.HttpElements
             foreach (var header in this.Headers)
             {
                 responseAsString.Append(header.ToString() + HttpConstants.NewLine);
+            }
+
+            foreach (var cookie in this.Cookies)
+            {
+                responseAsString.Append
+                    ("Set-Cookie: " + cookie.ToString() + HttpConstants.NewLine);
             }
 
             responseAsString.Append(HttpConstants.NewLine);

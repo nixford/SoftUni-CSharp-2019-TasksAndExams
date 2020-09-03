@@ -6,6 +6,7 @@ using System.IO;
 using System.Net;
 using System.Net.Http;
 using System.Text;
+using System.Web;
 
 namespace SIS.HTTP.HttpElements
 {
@@ -14,6 +15,8 @@ namespace SIS.HTTP.HttpElements
         public HttpRequest(string httpRequestAsString)
          {
             this.Headers = new List<Header>();
+            this.Cookies = new List<Cookie>();
+            this.SessionData = new Dictionary<string, string>();            
             // StringReader reader = new StringReader(httpRequestAsString);
             // reader.ReadLine();
 
@@ -80,12 +83,39 @@ namespace SIS.HTTP.HttpElements
                     }
 
                     var header = new Header(headerParts[0], headerParts[1]);
-
                     this.Headers.Add(header);
+
+                    if (headerParts[0] == "Cookie")
+                    {
+                        var cookiesAsString = headerParts[1];
+                        var cookies = cookiesAsString
+                            .Split(new string[] { "; " }, StringSplitOptions.RemoveEmptyEntries);
+
+                        foreach (var cookieAsString in cookies)
+                        {
+                            var cookieParts = cookieAsString
+                                .Split(new char[] { '=' }, 2);
+                            if (cookieAsString.Length == 2)
+                            {
+                                this.Cookies.Add(new Cookie(cookieParts[0], cookieParts[1]));
+                            }
+                        }
+                    }
                 }
                 else
                 {
                     bodyBuilder.AppendLine(line);
+                }
+
+                this.Body = bodyBuilder.ToString().TrimEnd('\r', '\n');
+                this.FormData = new Dictionary<string, string>();
+                var bodyParts = this.Body.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
+                foreach (var bodyPart in bodyParts)
+                {
+                    var parameterParts = bodyPart.Split(new char[] { '=' }, 2);
+                    this.FormData.Add(
+                       HttpUtility.UrlDecode(parameterParts[0]),
+                       HttpUtility.UrlDecode(parameterParts[1]));
                 }
             }
         }
@@ -99,6 +129,12 @@ namespace SIS.HTTP.HttpElements
 
         public IList<Header> Headers { get; set; }
 
+        public IList<Cookie> Cookies { get; set; }
+
         public string Body { get; set; }
+
+        public IDictionary<string, string> FormData { get; set; }
+
+        public IDictionary<string, string> SessionData { get; set; }
     }
 }
