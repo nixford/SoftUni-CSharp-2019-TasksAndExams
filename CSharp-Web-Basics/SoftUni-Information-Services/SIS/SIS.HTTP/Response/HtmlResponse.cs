@@ -9,7 +9,6 @@ namespace SIS.HTTP.Response
     public class HtmlResponse : HttpResponse
     {
         public HtmlResponse(string html) 
-            : base()
         {            
             this.StatusCode = HttpResponseCode.Ok;
             byte[] byteData = Encoding.UTF8.GetBytes(html);
