@@ -1,0 +1,9 @@
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csproj.CoreCompileInputs.cache
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
