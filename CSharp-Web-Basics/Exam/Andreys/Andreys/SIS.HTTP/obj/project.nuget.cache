@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9y5lZtVpKnOhgS8eqnm+yZhHU3tniNoQFezevB4KZXfOrScH9V4oOBU5UsxLaZLgJ4wq+OJhbw3qjCjMaVjcAw==",
+  "dgSpecHash": "+i2WzpUzUThz4caC8YsU4kGZEn5MMe7jHAnKBIt2hoq0UOcE75RYbtgrR9fh2iyRkx/PsqMtA0HkRi3jdoG+Sg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.HTTP\\SIS.HTTP.csproj",
+  "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.HTTP\\SIS.HTTP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NVNDz/N7EDPcI7fF7fovyyWqSKzDGKdJh1vWEw+TNYQqhS2c4306hHr1oqCw6XpNMNtDKP/YiKDNp36HZZxRlA==",
+  "dgSpecHash": "ydn+uIPoBi3YSlQrQbNx7wgLq+sOga5W5y7AkVdEmvkbpSf75o/wPCZSF9txY47yHNVajiem+/LtifipFrxKcg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.6\\microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",

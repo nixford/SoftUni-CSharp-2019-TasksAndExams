@@ -11,15 +11,12 @@
         }
 
         public DbSet<User> Users { get; set; }
-        public DbSet<Product> Product { get; set; }
+        public DbSet<Product> Products { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder
-                    .UseSqlServer(@"Server=.\SQLEXPRESS;Database=Andreys;Integrated Security=True");
-            }
+            optionsBuilder
+                   .UseSqlServer(@"Server=.\SQLEXPRESS;Database=Andreys;Integrated Security=True");
 
             base.OnConfiguring(optionsBuilder);
         }

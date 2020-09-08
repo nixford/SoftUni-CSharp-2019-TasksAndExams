@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectUniqueName": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.HTTP\\SIS.HTTP.csproj",
       "projectName": "SIS.HTTP",
-      "projectPath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectPath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.HTTP\\SIS.HTTP.csproj",
       "packagesPath": "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.HTTP\\obj\\",
+      "outputPath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dimitar Uzunov\\AppData\\Roaming\\NuGet\\NuGet.Config",

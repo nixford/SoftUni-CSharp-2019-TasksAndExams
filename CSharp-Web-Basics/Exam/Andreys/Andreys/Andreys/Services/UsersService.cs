@@ -2,7 +2,6 @@
 using Andreys.Models;
 using SIS.MvcFramework;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -49,6 +48,7 @@ namespace Andreys.Services
         {
             var user = new User
             {
+                Id = Guid.NewGuid().ToString(),
                 Role = IdentityRole.User,
                 Username = username,
                 Email = email,

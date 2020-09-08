@@ -5294,11 +5294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\Andreys\\Andreys.csproj",
+      "projectUniqueName": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\Andreys\\Andreys.csproj",
       "projectName": "Andreys",
-      "projectPath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\Andreys\\Andreys.csproj",
+      "projectPath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\Andreys\\Andreys.csproj",
       "packagesPath": "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\Andreys\\obj\\",
+      "outputPath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\Andreys\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dimitar Uzunov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5314,8 +5314,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             }
           }
         }

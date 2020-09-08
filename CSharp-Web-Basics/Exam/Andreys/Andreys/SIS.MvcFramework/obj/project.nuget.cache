@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Y3TvtMAxY+ODsbGtd3339Zy5Qcdjsw5nhdymxd2sk9soTQ0+3u2cDK53F0weYVs2sr2H9a4kA2W8hEY+Mmv1g==",
+  "dgSpecHash": "9GMwuXG6bbFtKJKRBTVpcqnK9OO6Z+Gzn+HXV8v/JSzvJMG64JhvPRKNxdCglQs5Rmi8TUHrKwukZKuZsfjqDQ==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+  "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.6\\microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.codeanalysis.common\\3.4.0\\microsoft.codeanalysis.common.3.4.0.nupkg.sha512",

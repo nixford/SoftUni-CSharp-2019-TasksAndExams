@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsskBwydg4ThSX6vbwsQCJU9c6PIIULrQkD6pPxuVLHUwYpHQkK2fsP72wDNR10ToTMUEtOKg8oM1d/xyKwhQg==",
+  "dgSpecHash": "CnMlbulDUlCQvVxpd2uQkXRlfCNleYFfBhvY8zg9GN5jOFe0KYt31YIy9RLQNA+7o3HnbQFx8HBul1Z9rzvw0A==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7.C# Web\\C# Web Basics\\Exam preparation\\Andreys\\Andreys\\Andreys.csproj",
+  "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Andreys\\Andreys\\Andreys\\Andreys.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

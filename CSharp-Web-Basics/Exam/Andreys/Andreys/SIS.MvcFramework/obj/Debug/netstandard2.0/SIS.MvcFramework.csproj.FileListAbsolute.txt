@@ -10,3 +10,15 @@ D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.MvcFramework\obj\Debug\ne
 D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
 D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
 D:\SoftUni\7.C# Web\C# Web Basics\Exam preparation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Andreys\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
