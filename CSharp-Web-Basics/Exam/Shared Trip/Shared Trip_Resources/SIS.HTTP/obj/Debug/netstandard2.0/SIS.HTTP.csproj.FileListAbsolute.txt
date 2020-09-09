@@ -1,0 +1,9 @@
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Shared Trip\Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mWQXwX2oTWvJW1Fv2a7bHPj+3Dm9uQXmm3Y0/JoLwM4cbxEijL6agYrzQ6Umz4e/InOklyFTebafk/DsgAQ6fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Shared Trip\\Shared Trip_Resources\\SIS.HTTP\\SIS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
