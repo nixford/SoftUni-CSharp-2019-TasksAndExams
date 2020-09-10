@@ -19,38 +19,59 @@ namespace SharedTrip.Services
         }
 
 
-        public string Add(TripAddInputModel tripAddInputModel)
-        {           
-
+        public void Add(TripAddInputModel tripAddInputModel)
+        {
             var trip = new Trip()
             {
                 Id = Guid.NewGuid().ToString(),
                 StartPoint = tripAddInputModel.StartPoint,
                 EndPoint = tripAddInputModel.EndPoint,
-                DepartureTime = DateTime.ParseExact(tripAddInputModel.DepartureTime, 
+                DepartureTime = DateTime.ParseExact(tripAddInputModel.DepartureTime,
                 "dd.MM.yyyy HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None),
-                Seats = tripAddInputModel.Seats,
-                Description = tripAddInputModel.Description,
                 ImagePath = tripAddInputModel.ImagePath,
+                Seats = tripAddInputModel.Seats,
+                Description = tripAddInputModel.Description,                
             };
 
             this.dbContext.Trips.Add(trip);
-            this.dbContext.SaveChanges();
+            this.dbContext.SaveChanges();            
+        }
 
-            return trip.Id;
+        public IEnumerable<TripDetailsViewModel> GetAll()
+        {
+            var trips = this.dbContext.Trips.Select(t => new TripDetailsViewModel
+            {
+                Id = t.Id,
+                Seats = t.Seats,
+                DepartureTime = t.DepartureTime.ToString("dd.MM.yyyy HH:mm"),
+                StartPoint = t.StartPoint,
+                EndPoint = t.EndPoint,
+            }).ToArray();            
+
+            return trips;
         }       
 
-        public IEnumerable<Trip> GetAll()
-            => this.dbContext.Trips.Select(x => new Trip
+        public bool AddUserToTrip(string tripId, string userId)
+        {
+            var targetTrip = this.dbContext.Trips.FirstOrDefault(x => x.Id == tripId);
+            var userTrip = new UserTrip
             {
-                StartPoint = x.StartPoint,
-                EndPoint = x.EndPoint,
-                DepartureTime = x.DepartureTime,
-                Seats = x.Seats,
-            })
-            .ToArray();
+                TripId = tripId,
+                UserId = userId
+            };
+            
+            if (!this.dbContext.UserTrips.Any(x => x.TripId == userTrip.TripId && x.UserId == userTrip.UserId) && targetTrip.Seats > 0)
+            {
+                targetTrip.Seats -= 1;
+                targetTrip.UserTrips.Add(userTrip);
+                dbContext.SaveChanges();
+                return true;
+            }
 
-        public Trip GetById(string id)
-            => this.dbContext.Trips.FirstOrDefault(x => x.Id == id);       
+            return false;
+        }
+
+        public Trip GetTrip(string tripId) =>
+            this.dbContext.Trips.FirstOrDefault(t => t.Id == tripId);
     }
 }
