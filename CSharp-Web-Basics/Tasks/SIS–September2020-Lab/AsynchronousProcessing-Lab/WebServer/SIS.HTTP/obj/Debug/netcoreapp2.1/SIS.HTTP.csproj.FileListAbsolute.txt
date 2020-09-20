@@ -1,0 +1,9 @@
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.deps.json
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\Dimitar Uzunov\Desktop\CSharp-Web-Development-Basics-master\CSharp-Web-Development-Basics-master\05.AsynchronousProcessing-Exercises\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.pdb
