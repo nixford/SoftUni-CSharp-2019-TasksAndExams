@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mf02J/I2Y37cIua3ZcC7WjwyPTM2LqQTNJ2+YoiFvFsp2fsEQbrUmmfOgxT9vMZB7f8eZ94CaUJpgR/dLOfE/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-Web-Basics\\Exam\\Session - September 2020\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.deps.json
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfo.cs
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\Dimitar Uzunov\Documents\Local repository\SoftUni-CSharp-2019-TasksAndExams\CSharp-Web-Basics\Exam\Session - September 2020\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb
