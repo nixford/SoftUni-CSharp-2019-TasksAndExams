@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@Environment.OSVersion</h1>
+    <p><strong>Directory:</strong> @Environment.CurrentDirectory</p>
+    <p><strong>Username:</strong> @Environment.UserName</p>
+    <p><strong>Machine Name:</strong> @Environment.MachineName</p>
+    <p><strong>Processor Count:</strong> @Environment.ProcessorCount</p>
+    <p><strong>Version:</strong> @Environment.Version</p>
+    <p><strong>Working Set:</strong> @Environment.WorkingSet</p>
+    <p><strong>User Profile:</strong> @Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)</p>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7x11AAFZwnEdPDKo2cIYSfL5puywzKQ80ViK64iK8DoVxH6BFEKggmv5Xfj189FyzSovgibVLvM2k7eTpeGbCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dimitar Uzunov\\Documents\\Local repository\\SoftUni-CSharp-2019-TasksAndExams\\CSharp-ASP.NET-Core\\DockerDemo\\DockerDemo\\DockerDemo\\DockerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimitar Uzunov\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
