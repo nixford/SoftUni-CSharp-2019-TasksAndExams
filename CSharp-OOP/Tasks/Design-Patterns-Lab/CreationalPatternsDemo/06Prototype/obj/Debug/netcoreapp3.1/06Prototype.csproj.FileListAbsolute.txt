@@ -1,0 +1,24 @@
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.exe
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.deps.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.runtimeconfig.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.runtimeconfig.dev.json
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.pdb
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.csprojAssemblyReference.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.AssemblyInfoInputs.cache
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.AssemblyInfo.cs
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.dll
+D:\Soft Uni\Hight-Quality-code\high-quality-code\December-2019\02. High-Quality-Code-Creational-Patterns\CreationalPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.pdb
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.exe
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.deps.json
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.runtimeconfig.json
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.runtimeconfig.dev.json
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.dll
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\bin\Debug\netcoreapp3.1\06Prototype.pdb
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.csprojAssemblyReference.cache
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.AssemblyInfoInputs.cache
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.AssemblyInfo.cs
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.csproj.CoreCompileInputs.cache
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.dll
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.pdb
+D:\SoftUni\5.C# Advanced\C# OOP\Topics\Design Patterns\DesignPatternsDemo\CreationalPatternsDemo\06Prototype\obj\Debug\netcoreapp3.1\06Prototype.genruntimeconfig.cache
